@@ -1,6 +1,7 @@
 # floorplan-AI-GP
 Our project harnesses the capabilities of artificial intelligence and deep learning to automate the creation of detailed 2D and 3D floorplans, transforming the architectural design process. By leveraging advanced machine learning techniques, we aim to provide an efficient solution for architects, builders, and real estate professionals.
 ### README
+![image](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/32f32dfc-b838-462d-a412-5061f6a35148)
 
 # AI-Powered 2D and 3D Floorplan Generation
 
@@ -37,6 +38,7 @@ This project harnesses the capabilities of artificial intelligence and deep lear
 - Incorporating augmented reality (AR) to visualize floorplans in actual environments.
 - Enhancing AI models to support more complex designs and unconventional layouts.
 - Developing collaborative tools for multiple users to work on the same project simultaneously.
+![image](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/9f255f27-3a4c-4e02-8319-629a1a64dc59)
 
 ## Installation
 
