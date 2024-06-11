@@ -44,7 +44,9 @@ This project harnesses the capabilities of artificial intelligence and deep lear
 ![image](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/ce7c8d84-fbd2-4b84-bd73-7a7798dc262a)
 ![image](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/45340f2a-a2c2-4e36-9230-fd20afbf4eaf)
 ## output 
-![0in10309](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/dc63c243-0023-4a6a-ae79-82b77d602d2f)![result](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/b27d846d-7aa6-4f23-a4a5-dcf73130aeed)![0in13478](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/5c91ce02-a439-404d-b251-7f42f46e91d3)![0in1382](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/7c187373-45b9-4027-8c1f-79d31f3febb0)
+![0in10309](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/dc63c243-0023-4a6a-ae79-82b77d602d2f)![result](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/b27d846d-7aa6-4f23-a4a5-dcf73130aeed)![0in13478](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/5c91ce02-a439-404d-b251-7f42f46e91d3)![0in1382](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/7c187373-45b9-4027-8c1f-79d31f3febb0)![0in14764](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/7c3f1da0-5701-4fa1-8426-c8a79a17cb6a)![0in10581](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/065dda6c-7d04-48ac-9cbd-ab604a581160)
+
+
 ## Installation
 
 ### Requirements
