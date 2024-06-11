@@ -38,7 +38,15 @@ This project harnesses the capabilities of artificial intelligence and deep lear
 - Incorporating augmented reality (AR) to visualize floorplans in actual environments.
 - Enhancing AI models to support more complex designs and unconventional layouts.
 - Developing collaborative tools for multiple users to work on the same project simultaneously.
-![image](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/9f255f27-3a4c-4e02-8319-629a1a64dc59)
+## Models
+![image](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/dc4312e1-4674-49ff-83de-927a9f605afb)
+![image](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/92181a55-2e14-4902-b457-b21585e388b7)
+![image](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/ce7c8d84-fbd2-4b84-bd73-7a7798dc262a)
+![image](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/45340f2a-a2c2-4e36-9230-fd20afbf4eaf)
+## output 
+![0in10309](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/dc63c243-0023-4a6a-ae79-82b77d602d2f)![result](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/b27d846d-7aa6-4f23-a4a5-dcf73130aeed)![0in13478](https://github.com/kandeel11/floorplan-AI-GP/assets/113936202/5c91ce02-a439-404d-b251-7f42f46e91d3)
+
+
 
 ## Installation
 
